@@ -7,7 +7,7 @@
 <h1 align="center">
     <a href="https://effulgent-kringle-b84dbe.netlify.app/">🔗 Pacman-game</a>
 </h1>
-<p> Aqui está o link para o projeto, ainda não está concluído; pretendo adicionar conteúdos como:</p>
+<p> Aqui está o link para o projeto, que ainda não está concluído, mas já achei muito bacana; pretendo adicionar algumas funcionalidades, como:</p>
 <ul>
     <li>Botão de reload</li>
     <li>Score/pontuação</li>
