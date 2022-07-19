@@ -1,5 +1,5 @@
 
-        <h1 align="center">Nome do Projeto</h1>
+## Pacman Game - JavaScript
 
 <p align="center">Desenvolvimento de um jogo em javascript, com temática do pacman e mecânica de pulos e colisão. </p>
 
