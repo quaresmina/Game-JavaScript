@@ -30,7 +30,10 @@ const loopGame = setInterval(() => {
     
 }, 10);
 
+document.addEventListener("click", jump);
+
 const refreshButton = document.querySelector('.refresh')
+
 
 //refreshButton.addEventListener('click', refreshGame())
 
